@@ -57,10 +57,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=EncoreUnNerd&theme=dark" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=EncoreUnNerd&theme=dark&border_radius=10" alt="GitHub Streak" /></a>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=EncoreUnNerd&count_private=true&show_icons=true&rank_icon=github&border_radius=10&theme=dark" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=EncoreUnNerd&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=EncoreUnNerd&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&theme=dark" alt="top langs" />
 </div>
 
 <br/><br/>
