@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a discord bot for community creators**
  
- 🌱 I’m currently learning **Cpp, swift**
+ 🌱 I’m currently learning **C**
 
 💬 You can add me on discord if you want **encoreunnerd**
 
