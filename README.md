@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **C**
 
-💬 You can add me on discord if you want **encoreunnerd**
+💬 You can add me on discord if you want -> **encoreunnerd**
 
  </div>
  
