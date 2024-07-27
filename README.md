@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=EncoreUnNerd.EncoreUnNerd" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;+I'm+Mathys+Henin+👽;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;+I'm+Mathys+Henin+🦕;" />
 </h1>
 
 <h3 align="center">A passionate developer from France</h3>
@@ -48,14 +48,5 @@
 </div>
 
 <hr/>
-
-<h2 align="center">⚡ My very awesome stats ⚡</h2>
-<br>
-<div align=center>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=EncoreUnNerd&theme=dark&border_radius=10" alt="GitHub Streak" /></a>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=EncoreUnNerd&count_private=true&show_icons=true&rank_icon=github&border_radius=10&theme=dark" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=EncoreUnNerd&hide=HTML&langs_count=8&layout=compact&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&theme=dark" alt="top langs" />
-</div>
 
 <br/><br/>
