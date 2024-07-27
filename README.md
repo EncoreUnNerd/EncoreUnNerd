@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a discord bot for community creators**
+ 🔭 I’m currently working on **🤫**
  
- 🌱 I’m currently learning **C**
+ 🌱 I’m currently learning **C**, **C++**, **rust** 
 
 💬 You can add me on discord if you want -> **encoreunnerd**
 
