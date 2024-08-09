@@ -34,7 +34,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,c,cpp,arduino,swift,bash,git,postgres,mongodb" />
     <br><img src="https://skillicons.dev/icons?i=pycharm,vscode,vim,stackoverflow,bots,discord,apple,windows,ubuntu" /></br>
-</div>
+</div> 
 
 <br/>
 <hr/>
