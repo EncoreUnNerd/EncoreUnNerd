@@ -27,6 +27,6 @@ I am currently a student at École 42 🎓, passionate about computer science �
 ## Contact
 
 Feel free to reach out to exchange ideas or collaborate 📩🤝.  
-[mail me](mathys.henin@protonmail.com) ✉️
+[mail me](mailto:mathys.henin@protonmail.com) ✉️
 
 - 🤓
