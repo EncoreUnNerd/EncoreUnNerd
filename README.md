@@ -4,7 +4,7 @@ I am currently a student at École 42 🎓, passionate about computer science �
 
 ## About Me
 
-- Student at École 42 (https://42.fr/en) 🌍
+- Student at École 42 [https://42.fr/en] 🌍
 - I love taking on challenges and learning from my mistakes 😅💪
 - Main skills: **Python** 🐍 and **C** 💚
 
