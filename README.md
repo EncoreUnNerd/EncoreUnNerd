@@ -1,16 +1,32 @@
-## Hi there 👋
+# Welcome to my GitHub profile 👋✨
 
-<!--
-**EncoreUnNerd/EncoreUnNerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently a student at École 42 🎓, passionate about computer science 💻.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Student at École 42 [https://42.fr/en] 🌍
+- I love taking on challenges and learning from my mistakes 😅💪
+- Main skills: **Python** 🐍 and **C** 💚
+
+## Technologies I Use
+
+- **Programming Languages:**
+  - Python 🐍
+  - C 💚
+  - Swift 🍏
+
+- **Development Environment:**
+  - Zed 🖥️
+  - Xcode 🍏
+
+## Recent Projects
+
+- libft - The 42 version of libc 📚.
+- 42-piscine - My codes from the piscine (entrance exam) at 42 🏊‍♂️.
+
+## Contact
+
+Feel free to reach out to exchange ideas or collaborate 📩🤝.  
+[mathys.henin@protonmail.com] ✉️
+
+- 🤓
