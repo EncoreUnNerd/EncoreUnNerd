@@ -17,6 +17,7 @@ I am currently a student at École 42 🎓, passionate about computer science �
 
 - **Development Environment:**
   - Zed 🖥️
+  - PyCharm 🐍
   - Xcode 🍏
 
 ## Recent Projects
