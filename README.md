@@ -2,6 +2,8 @@
 
 I am currently a student at École 42 🎓, passionate about computer science 💻.
 
+Something important, i no longer use githb to push my code, i use [codeberg](https://codeberg.org/EncoreUnNerd) 
+
 ## About Me
 
 - Student at [École 42](https://42.fr/en) 🌍
@@ -19,11 +21,6 @@ I am currently a student at École 42 🎓, passionate about computer science �
   - Zed 🖥️
   - PyCharm 🐍
   - Xcode 🍏
-
-## Recent Projects
-
-- libft - The 42 version of libc 📚.
-- 42-piscine - My codes from the piscine (entrance exam) at 42 🏊‍♂️.
 
 ## Contact
 
