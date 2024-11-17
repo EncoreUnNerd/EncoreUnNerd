@@ -43,6 +43,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/EncoreUnNerd/EncoreUnNerd/output/snake.svg" alt="Snake animation" />
-
 ###
