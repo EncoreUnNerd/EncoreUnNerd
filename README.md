@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mathys and I'm a student, from 42 mulhouse</h2>
+<h2 align="left">Hi 👋! My name is Mathys and I'm a student from 42 mulhouse.</h2>
 
 ###
 
